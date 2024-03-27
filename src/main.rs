@@ -1,4 +1,4 @@
-struct SomethingForClippyToComplainAbout;
+struct somethingForClippyToComplainAbout;
 fn main() {
-    let () = (); ()
+    let (_, _) = ((), ());
 }
