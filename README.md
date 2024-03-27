@@ -1,0 +1,1 @@
+# clippy-sarif-action-test
